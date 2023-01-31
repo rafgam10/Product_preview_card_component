@@ -2,8 +2,8 @@
 
 # ===================================== 
 
-## Product preview card component | Desktop
-Programei o o projeto todo para pc no momento, usei variaveis para usar as paletas de cores e fonts.
+## Product preview card component | Desktop | 2023/01/30
+Programei o projeto todo para desktop no momento atual, usei variaveis na tags do css "root", para usar as paletas de cores e fonts.
 
 ![Model Desktop](https://github.com/rafgam10/Product_preview_card_component/blob/main/assets/image-readme/desktop.png)
 
